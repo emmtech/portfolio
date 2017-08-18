@@ -1,0 +1,112 @@
+.bigWrapper{
+    width:1000px;
+    margin:20px auto;
+}
+.bigContainer{
+    width:750px;
+    font-family:"Comic Sans MS", cursive;
+    padding: 2px;
+    float:right;
+}
+.menuside{
+    float:left;
+    width: 246px;
+    background-color: #cccccc;
+    height:1850px;
+}
+.menuside img{
+    margin-top:-50px;
+}
+.personal{
+    width:100%;
+    text-align:center;
+    background: #000;
+    -webkit-border-top-right-radius: 50px;
+    -webkit-border-bottom-left-radius:50px;
+    -moz-border-top-right-radius: 50px;
+    -moz-border-bottom-left-radius:50px;
+    color:#ccc9ee;
+    text-shadow: rgb(110,200,100)1px 1px 1px;
+    box-shadow: rgb(90,150,150)2px 3px 2px;
+}
+.objectives{
+   width:100%;
+   text-align:justify;
+   font-family: serif;
+   margin:5px auto;
+}
+.objectives h3{
+    background:#000000;
+    color:#fff;
+}
+.education{
+     font-family: serif;
+}
+.education h3{
+    background:#000000;
+    color:#fff;
+}
+.experience h3{
+    background:#000000;
+    color:#fff;
+     font-family: serif;
+}
+.experience .table{
+    font-family: serif;
+}
+#ments h3{
+    background:#000000;
+    color:#fff;
+}
+.achieve{
+    float:left;
+    width:450px;
+    font-family: serif;
+}
+#ments{
+  width:220px;
+  float:left;
+  border-right: 1px solid silver;
+}
+.cert h3{
+    background:#F00;
+    color:#fff;
+}
+.tech h3{
+    background:#030;
+    color:#fff;
+}
+.tech{
+    float:right;
+    width:290px;
+    font-family: serif;
+}
+.cert{
+    width:226px;
+    float:right;
+    border-right: 1px solid silver;
+}
+#clear-float{
+    clear:both;
+}
+.ref{
+    margin-top:5px;
+    border-right: 1px solid silver;
+}
+.ref h3{
+    background:#000;
+    color:#fff;
+}
+#pix{
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    margin-top: 10px;
+}
+#bot{
+    clear:both;
+}
+.foot{
+    background: #ccccff;
+    text-align: center;
+}
+
